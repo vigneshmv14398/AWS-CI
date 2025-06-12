@@ -1,1 +1,1 @@
-print("Hello from Docker and AWS codebuild")
+print("Hello from new one")
